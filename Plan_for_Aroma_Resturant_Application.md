@@ -50,6 +50,8 @@ Taking a thirty minutes break after the completion of the training for Monday-Fr
     [ ]   Completing the Service and the Daos.
     [ ]   Research about Azure SQL.
     [ ]   Commit the work to GitHub. 
+    [ ]   Aroma_API_ASAM  repository was created for the backend API
+    [ ]   Aroma_FE_ASAM   repository was created for the frontend application.
 
 
 ## Wednesday:
