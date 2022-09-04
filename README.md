@@ -53,7 +53,7 @@ My Aroma Restaurant app was developed for a small restaurant that is looking to 
 -   [ ] Daily Commits to Github
 -   [ ] Branching strategies implemented
 -   [ ] 80% line coverage of all service layer classes
--   [ ] Generated Logging for ALL threshold level in your program
+-   [ ] Generated Logging for all threshold level in your program
 -   [ ] Mocking for unit testing
  
 ## Collaborators
